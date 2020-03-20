@@ -697,10 +697,9 @@ Docker image: https://hub.docker.com/_/rabbitmq&#xD;
         </child>
       </child>
       <child xsi:type="archimate:Note" id="4e517b29-89fd-45c1-8d7f-d19c3609d2a0" font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1">
-        <bounds x="48" y="738" width="301" height="187"/>
+        <bounds x="48" y="738" width="301" height="151"/>
         <content>OS2mo servere teknologioverblik (virtualisering, docker og interfaces)&#xD;
 &#xD;
-Udarbejdet af: Kim Bøgsted&#xD;
 Revideret: 20. marts 2020</content>
       </child>
       <child xsi:type="archimate:DiagramObject" id="14fa37d7-b491-406e-9bc6-5b7afd3d0fda" targetConnections="485d44a0-c79a-4086-a371-a3c81c8b31b9 5d31c7a5-20a9-40cf-8e27-8feca0afc347 698b0617-f702-4c73-93c7-df2e99a245a2" archimateElement="caab7d32-2b86-4dd1-94ea-230d594f241b">
